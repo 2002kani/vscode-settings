@@ -1,0 +1,37 @@
+{
+  "editor.minimap.enabled": false,
+  "liveServer.settings.CustomBrowser": "chrome",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "explorer.confirmDragAndDrop": false,
+  "explorer.confirmDelete": false,
+  "security.workspace.trust.untrustedFiles": "open",
+  "liveServer.settings.donotVerifyTags": true,
+  "git.enableSmartCommit": true,
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "diffEditor.ignoreTrimWhitespace": false,
+  "window.titleBarStyle": "custom",
+  "workbench.colorTheme": "Tokyo Night Storm",
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "workbench.editor.empty.hint": "hidden",
+  "playwright.reuseBrowser": false,
+  "mdb.mcp.server": "enabled",
+  "editor.fontLigatures": false,
+  "workbench.activityBar.location": "top",
+  "workbench.statusBar.visible": false,
+  "workbench.startupEditor": "none",
+  "workbench.tips.enabled": false,
+  "breadcrumbs.enabled": false,
+
+  // Custom styles and scripts
+  "vscode_custom_css.imports": [
+    "file:///Users/kanikaradag/vscode-settings/custom-vscode.css",
+    "file:///Users/kanikaradag/vscode-settings/custom-vscode.js"
+  ]
+}
+
