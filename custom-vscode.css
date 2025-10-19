@@ -177,6 +177,8 @@
   background-position: center center !important;
   background-size: contain !important;
   width: 40% !important;
+  position: absolute !important;
+  bottom: -45px !important;
 }
 
 .editor-group-watermark {
